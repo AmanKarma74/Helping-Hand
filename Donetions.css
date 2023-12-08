@@ -15,7 +15,7 @@ body {
 }
 .template{
     background-color: #f7f7f8;
-    display: flex;
+    display: flex-box;
     padding-top: 10px;
     position: relative;
     flex-direction: row;
